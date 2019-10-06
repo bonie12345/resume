@@ -1,0 +1,64 @@
+body {
+  background: #0A570A;
+  margin: 0;
+  padding: 90;
+}
+
+
+
+.navigation    {
+  box-sizing: border-box;
+  background-color: #FFFF;
+  
+  padding: 10px 550px;
+  position: right
+  ;
+  top: 0;
+  width: 100%;
+  
+
+
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+
+p
+ {
+
+  color: #00000 ;
+  font-family: all;
+  font-size:20px
+
+  
+
+}
+
+
+
+
+section {
+  box-sizing: border-box;
+  background-color: #C5E309 ;
+ 
+  padding: 0px 400px;
+  
+  top: 0;
+  width: 100%;
+font-size: 40px}
+
+}
+footer {
+  bottom: 100;
+  top: 1;
+}
+.rotateimg180 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
